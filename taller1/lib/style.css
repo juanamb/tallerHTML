@@ -1,0 +1,8 @@
+/* Add your styles here */
+table, th, td {
+  border: 1px solid;
+  border-color: orange;
+}
+p{
+  color: orangered;
+}
